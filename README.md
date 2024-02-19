@@ -1,7 +1,7 @@
 ### ✨ Olá! Sou a Julia Castro. ✨
 
 Sejam bem-vind@s ao meu perfil.
-Sou de Brasília e tenho 19 anos. Sou estudante de TI 💻 e por aqui você pode conferir o que ando aprendendo. Atualmente busco aprimorar meus conhecimentos🤗.
+Sou de Brasília e tenho 20anos. Sou estudante de TI 💻 e por aqui você pode conferir o que ando aprendendo. Atualmente busco aprimorar meus conhecimentos🤗.
 
 ![GeekLaptopGIF](https://user-images.githubusercontent.com/98162165/193184810-f73a11f3-09db-4ca8-b2b0-290ae023a909.gif)
 
